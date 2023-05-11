@@ -1,0 +1,14 @@
+.navbar-link{
+  text-decoration: none;
+  color: black;
+}
+
+.links-container {
+  margin-left: 20px;
+  display: flex;
+  gap: 15px;
+}
+
+.container {
+  margin-left: 50px!important;
+}
